@@ -28,7 +28,6 @@ Ini adalah proyek Pygame sederhana yang menampilkan lirik dengan efek hujan. Lir
  pip instal pygame
  ```
 
-3. Tempatkan gambar (`hujan.png`, `cloud.png`, `sadman.png`) di direktori yang sama dengan skrip.
 
 ## Penggunaan
 
