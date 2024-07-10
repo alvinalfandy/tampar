@@ -25,7 +25,7 @@ Ini adalah proyek Pygame sederhana yang menampilkan lirik dengan efek hujan. Lir
 2. Instal paket yang diperlukan:
 
  ```bash
- pip instal pygame
+ pip install pygame
  ```
 
 
