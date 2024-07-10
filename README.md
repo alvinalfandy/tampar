@@ -18,7 +18,7 @@ Ini adalah proyek Pygame sederhana yang menampilkan lirik dengan efek hujan. Lir
 1. Kloning repositori:
 
  ```bash
- git clone https://github.com/namapenggunaAnda/tampar-lyrics.git
+ git clone https://github.com/alvinalfandy/tampar
  CD tampar
  ```
 
