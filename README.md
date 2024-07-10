@@ -10,10 +10,10 @@ Ini adalah proyek Pygame sederhana yang menampilkan lirik dengan efek hujan. Lir
 
 ## Persyaratan
 
--Python 3.x
-- Permainan Py
+- Python 3.x
 
-##Instalasi
+
+## Instalasi
 
 1. Kloning repositori:
 
